@@ -6,22 +6,13 @@ shahz@DESKTOP-A0HULQM MINGW64 ~
 $ cd /e
 
 shahz@DESKTOP-A0HULQM MINGW64 /e
-$ /ls
-bash: /ls: No such file or directory
+
 
 shahz@DESKTOP-A0HULQM MINGW64 /e
 $ ls
 '$RECYCLE.BIN'/          books/              ICloudBackup/                      Mcaffe_SerialNo.png                     "SaadHaider's Photo"/  'System Volume Information'/
 'AWS Training Videos'/   EclipseWorkSpace/  'Iphone - Back Up - May 22 2018'/   notepad/                                 Scrum/
  Bigdata-Hadoop/         Git/                Java/                             'OfficeLaptopData - Drive E- Personal'/   softwares/
-
-shahz@DESKTOP-A0HULQM MINGW64 /e
-$ cd /Git
-bash: cd: /Git: No such file or directory
-
-shahz@DESKTOP-A0HULQM MINGW64 /e
-$ /Git
-bash: /Git: No such file or directory
 
 shahz@DESKTOP-A0HULQM MINGW64 /e
 $ cd Git/
